@@ -1,0 +1,126 @@
+C:\Users\daniy\Desktop\matriz\matriz\bin\Debug\matriz.exe.config
+C:\Users\daniy\Desktop\matriz\matriz\bin\Debug\matriz.exe
+C:\Users\daniy\Desktop\matriz\matriz\bin\Debug\matriz.pdb
+C:\Users\daniy\Desktop\matriz\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+C:\Users\daniy\Desktop\matriz\matriz\obj\Debug\matriz.Form1.resources
+C:\Users\daniy\Desktop\matriz\matriz\obj\Debug\matriz.Properties.Resources.resources
+C:\Users\daniy\Desktop\matriz\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+C:\Users\daniy\Desktop\matriz\matriz\obj\Debug\matriz.exe
+C:\Users\daniy\Desktop\matriz\matriz\obj\Debug\matriz.pdb
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\SIMULACRO MATRICES\matriz\matriz\bin\Debug\matriz.exe.config
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\SIMULACRO MATRICES\matriz\matriz\bin\Debug\matriz.exe
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\SIMULACRO MATRICES\matriz\matriz\bin\Debug\matriz.pdb
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\SIMULACRO MATRICES\matriz\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\SIMULACRO MATRICES\matriz\matriz\obj\Debug\matriz.Form1.resources
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\SIMULACRO MATRICES\matriz\matriz\obj\Debug\matriz.Properties.Resources.resources
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\SIMULACRO MATRICES\matriz\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\SIMULACRO MATRICES\matriz\matriz\obj\Debug\matriz.exe
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\SIMULACRO MATRICES\matriz\matriz\obj\Debug\matriz.pdb
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\2DO-main\matriz\matriz\bin\Debug\matriz.exe.config
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\2DO-main\matriz\matriz\bin\Debug\matriz.exe
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\2DO-main\matriz\matriz\bin\Debug\matriz.pdb
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\2DO-main\matriz\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\2DO-main\matriz\matriz\obj\Debug\matriz.Form1.resources
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\2DO-main\matriz\matriz\obj\Debug\matriz.Properties.Resources.resources
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\2DO-main\matriz\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\2DO-main\matriz\matriz\obj\Debug\matriz.exe
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\2DO-main\matriz\matriz\obj\Debug\matriz.pdb
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\BASE MATRICES\matriz\matriz\bin\Debug\matriz.exe.config
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\BASE MATRICES\matriz\matriz\bin\Debug\matriz.exe
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\BASE MATRICES\matriz\matriz\bin\Debug\matriz.pdb
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\BASE MATRICES\matriz\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\BASE MATRICES\matriz\matriz\obj\Debug\matriz.Form1.resources
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\BASE MATRICES\matriz\matriz\obj\Debug\matriz.Properties.Resources.resources
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\BASE MATRICES\matriz\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\BASE MATRICES\matriz\matriz\obj\Debug\matriz.exe
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\BASE MATRICES\matriz\matriz\obj\Debug\matriz.pdb
+C:\Users\01\Desktop\BASE MATRICES\matriz\matriz\bin\Debug\matriz.exe.config
+C:\Users\01\Desktop\BASE MATRICES\matriz\matriz\bin\Debug\matriz.exe
+C:\Users\01\Desktop\BASE MATRICES\matriz\matriz\bin\Debug\matriz.pdb
+C:\Users\01\Desktop\BASE MATRICES\matriz\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+C:\Users\01\Desktop\BASE MATRICES\matriz\matriz\obj\Debug\matriz.Form1.resources
+C:\Users\01\Desktop\BASE MATRICES\matriz\matriz\obj\Debug\matriz.Properties.Resources.resources
+C:\Users\01\Desktop\BASE MATRICES\matriz\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+C:\Users\01\Desktop\BASE MATRICES\matriz\matriz\obj\Debug\matriz.exe
+C:\Users\01\Desktop\BASE MATRICES\matriz\matriz\obj\Debug\matriz.pdb
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SB\matriz\matriz\bin\Debug\matriz.exe.config
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SB\matriz\matriz\bin\Debug\matriz.exe
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SB\matriz\matriz\bin\Debug\matriz.pdb
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SB\matriz\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SB\matriz\matriz\obj\Debug\matriz.Form1.resources
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SB\matriz\matriz\obj\Debug\matriz.Properties.Resources.resources
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SB\matriz\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SB\matriz\matriz\obj\Debug\matriz.exe
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SB\matriz\matriz\obj\Debug\matriz.pdb
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SB\matrizSB\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SB\matrizSB\matriz\obj\Debug\matriz.Form1.resources
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SB\matrizSB\matriz\obj\Debug\matriz.Properties.Resources.resources
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SB\matrizSB\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SB\matrizSB\matriz\obj\Debug\matriz.exe
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SB\matrizSB\matriz\obj\Debug\matriz.pdb
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SB\matrizSB\matriz\bin\Debug\matriz.exe.config
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SB\matrizSB\matriz\bin\Debug\matriz.exe
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SB\matrizSB\matriz\bin\Debug\matriz.pdb
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSB\matriz\bin\Debug\matriz.exe.config
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSB\matriz\bin\Debug\matriz.exe
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSB\matriz\bin\Debug\matriz.pdb
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSB\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSB\matriz\obj\Debug\matriz.Form1.resources
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSB\matriz\obj\Debug\matriz.Properties.Resources.resources
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSB\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSB\matriz\obj\Debug\matriz.exe
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSB\matriz\obj\Debug\matriz.pdb
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSI\matriz\bin\Debug\matriz.exe.config
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSI\matriz\bin\Debug\matriz.exe
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSI\matriz\bin\Debug\matriz.pdb
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSI\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSI\matriz\obj\Debug\matriz.Form1.resources
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSI\matriz\obj\Debug\matriz.Properties.Resources.resources
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSI\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSI\matriz\obj\Debug\matriz.exe
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSI\matriz\obj\Debug\matriz.pdb
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSI - copia\matriz\bin\Debug\matriz.exe.config
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSI - copia\matriz\bin\Debug\matriz.exe
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSI - copia\matriz\bin\Debug\matriz.pdb
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSI - copia\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSI - copia\matriz\obj\Debug\matriz.Form1.resources
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSI - copia\matriz\obj\Debug\matriz.Properties.Resources.resources
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSI - copia\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSI - copia\matriz\obj\Debug\matriz.exe
+C:\Users\01\Desktop\2DO P PRO1 124\BASE MATRICES SII\matrizSI - copia\matriz\obj\Debug\matriz.pdb
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SI\matrizSI - copia\matriz\bin\Debug\matriz.exe.config
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SI\matrizSI - copia\matriz\bin\Debug\matriz.exe
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SI\matrizSI - copia\matriz\bin\Debug\matriz.pdb
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SI\matrizSI - copia\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SI\matrizSI - copia\matriz\obj\Debug\matriz.Form1.resources
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SI\matrizSI - copia\matriz\obj\Debug\matriz.Properties.Resources.resources
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SI\matrizSI - copia\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SI\matrizSI - copia\matriz\obj\Debug\matriz.exe
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SI\matrizSI - copia\matriz\obj\Debug\matriz.pdb
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SB\repe\matrizsb - re\matriz\bin\Debug\matriz.exe.config
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SB\repe\matrizsb - re\matriz\bin\Debug\matriz.exe
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SB\repe\matrizsb - re\matriz\bin\Debug\matriz.pdb
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SB\repe\matrizsb - re\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SB\repe\matrizsb - re\matriz\obj\Debug\matriz.Form1.resources
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SB\repe\matrizsb - re\matriz\obj\Debug\matriz.Properties.Resources.resources
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SB\repe\matrizsb - re\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SB\repe\matrizsb - re\matriz\obj\Debug\matriz.exe
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SB\repe\matrizsb - re\matriz\obj\Debug\matriz.pdb
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SB\repe\matrizsb -BIEN\matriz\bin\Debug\matriz.exe.config
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SB\repe\matrizsb -BIEN\matriz\bin\Debug\matriz.exe
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SB\repe\matrizsb -BIEN\matriz\bin\Debug\matriz.pdb
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SB\repe\matrizsb -BIEN\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SB\repe\matrizsb -BIEN\matriz\obj\Debug\matriz.Form1.resources
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SB\repe\matrizsb -BIEN\matriz\obj\Debug\matriz.Properties.Resources.resources
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SB\repe\matrizsb -BIEN\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SB\repe\matrizsb -BIEN\matriz\obj\Debug\matriz.exe
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SB\repe\matrizsb -BIEN\matriz\obj\Debug\matriz.pdb
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SI\repe\matrizSI -BIEN\matriz\bin\Debug\matriz.exe.config
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SI\repe\matrizSI -BIEN\matriz\bin\Debug\matriz.exe
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SI\repe\matrizSI -BIEN\matriz\bin\Debug\matriz.pdb
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SI\repe\matrizSI -BIEN\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SI\repe\matrizSI -BIEN\matriz\obj\Debug\matriz.Form1.resources
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SI\repe\matrizSI -BIEN\matriz\obj\Debug\matriz.Properties.Resources.resources
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SI\repe\matrizSI -BIEN\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SI\repe\matrizSI -BIEN\matriz\obj\Debug\matriz.exe
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\2DO PARCIAL\SI\repe\matrizSI -BIEN\matriz\obj\Debug\matriz.pdb
